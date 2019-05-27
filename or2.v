@@ -6,6 +6,6 @@ input inp1;
 input inp2;
 output out;
 
-//AND logic
+//OR logic
 assign out=inp1|inp2;
 endmodule
